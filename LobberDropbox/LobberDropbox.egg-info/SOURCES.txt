@@ -1,0 +1,14 @@
+setup.py
+LobberDropbox.egg-info/PKG-INFO
+LobberDropbox.egg-info/SOURCES.txt
+LobberDropbox.egg-info/dependency_links.txt
+LobberDropbox.egg-info/entry_points.txt
+LobberDropbox.egg-info/namespace_packages.txt
+LobberDropbox.egg-info/top_level.txt
+deluge/__init__.py
+deluge/plugins/__init__.py
+deluge/plugins/lobberdropbox/__init__.py
+deluge/plugins/lobberdropbox/common.py
+deluge/plugins/lobberdropbox/core.py
+deluge/plugins/lobberdropbox/gtkui.py
+deluge/plugins/lobberdropbox/webui.py

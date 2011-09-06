@@ -1,0 +1,8 @@
+
+    [deluge.plugin.core]
+    LobberDropbox = deluge.plugins.lobberdropbox:CorePlugin
+    [deluge.plugin.gtkui]
+    LobberDropbox = deluge.plugins.lobberdropbox:GtkUIPlugin
+    [deluge.plugin.web]
+    LobberDropbox = deluge.plugins.lobberdropbox:WebUIPlugin
+    
